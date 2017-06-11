@@ -49,20 +49,20 @@ My pipeline consisted of 7 simple steps.
 
 7. Finally the last step of the pipeline was to overlay the lines onto the image in a weighted manner to produce the fully processed image. 
 
-**Combined Yellow and White Color Mask Applied
+## Combined Yellow and White Color Mask Applied
 ![alt text][mask]
 
 
-**Canny Edge Transform
+## Canny Edge Transform
 ![alt text][edges]
 
-**Region of Interest Mask Applied
+## Region of Interest Mask Applied
 ![alt text][interest]
 
-**Hough Transform
+## Hough Transform
 ![alt text][hough]
 
-**Final Output Image
+## Final Output Image
 ![alt text][weight]
 
 
